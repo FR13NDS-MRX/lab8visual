@@ -8,5 +8,5 @@
 		Width="450"
 		Height="450">
 
-	    <TextBlock VerticalAlignment="Center" TextAlignment="Center" FontSize="18">Гончаров Александр ИП-017</TextBlock>
+	    <TextBlock VerticalAlignment="Center" TextAlignment="Center" FontSize="18"></TextBlock>
 </Window>
